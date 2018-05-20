@@ -1,7 +1,7 @@
 #Todo
 
-[] Get URL reading to work
+[] Get URL reading to work and trigger text on extension
 [] Get permissions to work for chrome extension
 [] Build database
-[] Look and feel of website
-[] Include content on chrome extension
+[X] Look and feel of website
+[X] Include content on chrome extension
