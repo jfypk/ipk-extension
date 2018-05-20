@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "No Free Lunch",
+    "description": "Where does your food come from?",
+    "version": "0.0.0.1",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_title": "Eat Responsibly"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
