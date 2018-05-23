@@ -13,3 +13,6 @@ if(chrome.tabs != undefined) {
     console.log("Domain: " + tabURL);
 });
 }
+
+
+
