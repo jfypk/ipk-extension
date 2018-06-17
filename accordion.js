@@ -1,3 +1,5 @@
+//this script creates the accordion-style drop down menus of the chrome extension
+
 $(document).ready(function($) {
             $('#scoreBreakdown').find('.accordion-toggle').click(function() {
 

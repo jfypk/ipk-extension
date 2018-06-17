@@ -1,3 +1,5 @@
+//This script pulls the URL of the visited website and inserts it into a hidden div called URL. 
+
 if(chrome.tabs != undefined) {
 	chrome.tabs.query({
     active: true,
