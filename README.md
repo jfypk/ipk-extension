@@ -1,4 +1,4 @@
-#eat.Responsibly IPK Plugin
+# eat.Responsibly IPK Plugin
 
 This Chrome Extension is modified from the [Responsibly.me](https://www.responsibly.me) extension with the purpose of informing consumers on the fair sustainable practices of local restaurants. 
 
